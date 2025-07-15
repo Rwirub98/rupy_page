@@ -42,32 +42,4 @@
       </div>
     </div>
   </div>
-  
-<div></div>
-  <footer class="footer-section">
-    <div class="footer-container">
-      <div class="footer-brand">
-        <h2>ruby</h2>
-        <p>Your trusted IT partner delivering powerful solutions.</p>
-      </div>
-      <div class="footer-links">
-        <h4>PATHS</h4>
-        <ul>
-          <li><a href="#">Home</a></li>
-          <li><a href="#">Services</a></li>
-          <li><a href="#">Product</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Contact</a></li>
-        </ul>
-      </div>
-      <div class="footer-contact">
-        <h4>Contact Us</h4>
-        <p>info@gmail.com</p>
-        <p>9856270088</p>
-      </div>
-    </div>
-    <div class="footer-bottom">
-      <P>&copy; 2025 ruby. All rights reserved.</P>
-    </div>
-  </footer>
-</template>
+  </template>
