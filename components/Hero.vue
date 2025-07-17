@@ -1,3 +1,8 @@
+<script setup>
+definePageMeta({
+  layout: 'with-footer'
+})
+</script>
 <template>
   <section id="hero" class="hero-section">
     <div class="container hero-content">
@@ -11,8 +16,8 @@
           We help business grow through tecnology, strategy, and innovation.
         </p>
       </div>
-      <div class="hero-image">
-        <img src="" alt="Hero Image" />
+      <div class="hero-image" data-aos="fade-up">
+        <img src="/hero.jpg" alt="Hero Image" />
       </div>
     </div>
   </section>
@@ -43,3 +48,4 @@
     </div>
   </div>
   </template>
+

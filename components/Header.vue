@@ -6,11 +6,10 @@
         <span class="logo-text">ruby</span>
       </div>
       <nav class="nav-links">
-        <nuxt-link class="nav-link-custom fw-medium" href="/">Home</nuxt-link>
-        <nuxt-link class="nav-link-custom fw-medium" href="/service">Services</nuxt-link>
-      <nuxt-link class="nav-link-custom fw-medium" href="#product">Product</nuxt-link>
-        <nuxt-link class="nav-link-custom fw-medium" href="#about">About</nuxt-link>
-       <nuxt-link class="nav-link-custom fw-medium" href="#contact">Contact</nuxt-link>
+        <nuxt-link class="nav-link-custom fw-medium" to="/">Home</nuxt-link>
+        <nuxt-link class="nav-link-custom fw-medium" to="/service">Services</nuxt-link>
+        <nuxt-link class="nav-link-custom fw-medium" to="/about">About</nuxt-link>
+       <nuxt-link class="nav-link-custom fw-medium" to="/contact">Contact</nuxt-link>
       </nav>
     </div>
   </header>
